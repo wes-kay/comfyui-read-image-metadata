@@ -47,7 +47,3 @@ python main.py path/to/image.png
     "ComfyUI_Metadata": "{\"workflow\": \"example\", \"parameters\": {\"steps\": 50}}"
 }
 ```
-
-## License
-
-MIT License
